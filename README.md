@@ -14,7 +14,7 @@ Sistema web com objetivo didático desenvolvido com Flask + MariaDB.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/voidFrance/ministore.git
+git clone https://github.com/voidFrance/ministore_.git
 cd ministore
 ```
 
